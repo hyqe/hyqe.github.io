@@ -1,2 +1,3 @@
-# hyqe.github.io
-hyqe webpage
+# Hyqe
+
+(pronounced: hi-key)
