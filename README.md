@@ -1,3 +1,0 @@
-# Hyqe
-
-(pronounced: hi-key)
